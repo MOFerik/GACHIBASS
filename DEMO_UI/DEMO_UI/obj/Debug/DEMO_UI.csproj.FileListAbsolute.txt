@@ -1,0 +1,11 @@
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\bin\Debug\DEMO_UI.exe.config
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\bin\Debug\DEMO_UI.exe
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\bin\Debug\DEMO_UI.pdb
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\obj\Debug\DEMO_UI.csprojAssemblyReference.cache
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\obj\Debug\DEMO_UI.Form1.resources
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\obj\Debug\DEMO_UI.Properties.Resources.resources
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\obj\Debug\DEMO_UI.csproj.GenerateResource.cache
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\obj\Debug\DEMO_UI.csproj.CoreCompileInputs.cache
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\obj\Debug\DEMO_UI.exe
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\obj\Debug\DEMO_UI.pdb
+C:\Users\deadp\Desktop\Projects\HACKANTON\DEMO_UI\DEMO_UI\obj\Debug\DEMO_UI.Настройки.resources
